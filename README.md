@@ -17,6 +17,8 @@ Tech Stack: Html, css.(as per the guidlines)
 
 3. Responsive Design
    
+<img width="1470" alt="Screenshot 2024-10-02 at 6 16 07 PM" src="https://github.com/user-attachments/assets/8574b233-7d63-4168-ba65-5ca28aa456b7">
+![Screenshot 2024-10-02 at 6 16 16 PM](https://github.com/user-attachments/assets/19febb4e-4810-4665-85ab-cc0edb87c5c0)
 
 
  
