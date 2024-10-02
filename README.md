@@ -15,6 +15,9 @@ Tech Stack: Html, css.(as per the guidlines)
 2. Profile Section: Displays a brief introduction, profile image, and links to LinkedIn, GitHub, and Behance.
 <img width="363" alt="Screenshot 2024-10-02 at 6 02 42 PM" src="https://github.com/user-attachments/assets/9e3c16d8-398a-45ba-b9e0-6b174f75ae26">
 
+3. Responsive Design
+   
+
 
  
    
