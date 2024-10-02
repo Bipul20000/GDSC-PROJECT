@@ -122,8 +122,7 @@ a:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     transition: box-shadow 0.5s;
     font-family: 'Afacad Flux', sans-serif;
-    /* border-style:dashed;
-    border-color: #242323; */
+    
 }
 
 .num-box {
@@ -181,8 +180,7 @@ a:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
     transition: box-shadow 0.5s; 
-    /* border-style: dashed;
-    border-color: #1d1d1d; */
+   
 }
 .skills-box {
     width: 100%;
@@ -239,8 +237,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     transition: box-shadow 0.5s; 
-    /* border-style: dashed;
-    border-color: #1d1d1d; */
+    
 }
 
 
@@ -272,10 +269,9 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* /* transition: scale 0.5s; */
+    
     transition: box-shadow 0.5s; 
-    /* border-style: dashed;
-    border-color: #1d1d1d; */
+  
 }
 
 
@@ -299,27 +295,23 @@ a:hover {
 }
 
 .fear-box:hover{
-    /* background-color: rgb(34, 73, 202); */
-    /* scale: 1.05; */
+ 
     box-shadow: 0px 0px 20px 6px #fffffb;
 
 }
 
 .works-box:hover{
-    /* background-color: rgb(34, 73, 202); */
-    /* scale: 1.05; */
+   
     box-shadow: 0px 0px 20px 6px #f5f5f1;
 
 }
 .icon-box:hover{
-    /* background-color: rgb(34, 73, 202); */
-    /* scale: 1.05; */
+  
     box-shadow: 0px 0px 20px 6px #f9f9f7;
 
 }
 .center-box:hover{
-    /* background-color: rgb(34, 73, 202); */
-    /* scale: 1.05; */
+   
     box-shadow: 0px 0px 20px 6px #fcfbfd;
 
 }
