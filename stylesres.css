@@ -194,14 +194,12 @@ a:hover {
 
 .skill {
     margin-bottom: 8px;
-}
-
-.skill span {
-    font-size: 1.0em;
+     font-size: 1.0em;
     color: #120707;
     display: block;
-    
 }
+
+
 
 .progress {
     width: 100%;
